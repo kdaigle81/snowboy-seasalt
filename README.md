@@ -4,6 +4,8 @@ Docker-based web interface for generating `.pmdl` files from audio examples for 
 
 Credit to [seasalt-ai](https://github.com/seasalt-ai/snowboy)
 
+[Live pmdl](https://snowboy.jolanrensen.nl/)
+
 ## Docker Image
 
 To get started, run the pre-built Docker image:
